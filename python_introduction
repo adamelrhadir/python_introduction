@@ -1,0 +1,5 @@
+git remote add origin https://github.com/adamelrhadir/python_introduction.git
+git add simple_interest.py
+git commit -m "Add simple interest calculator"
+git push -u origin main
+git push -u origin HEAD
