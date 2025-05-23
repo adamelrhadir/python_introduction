@@ -15,3 +15,4 @@ interest = principal * rate * time
 
 # Print the result
 print("The simple interest is:", interest)
+simple_interest.py
